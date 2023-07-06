@@ -1,0 +1,8 @@
+@InProceedings{Jain_2023_CVPR,
+    author    = {Jain, Nishant and Kumar, Suryansh and Van Gool, Luc},
+    title     = {Enhanced Stable View Synthesis},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {13208-13217}
+}
